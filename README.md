@@ -8,4 +8,4 @@ This repo can be used to practice creating PRs.
 [Steps]
 1. Clone a repo from ********.com
 2. Create a branch from master branch called "fix1".
-
+3. At "fix1" branch, add some commits.
