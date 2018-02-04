@@ -3,6 +3,11 @@ A sample repo for practicing how to create Pull Requests
 
 [Introduction]
 
-Creating PRs is essential in RCS when working in group projects.
-Creating Pull Requests(PR) is needed when using RCS in multi-person projects.
+Creating Pull Requsts (PRs) is needed when using RCS in a multi-person projects. 
 This repo can be used to practice creating PRs.
+
+[Steps]
+1. Clone a repo from ********.com
+2. Create a branch from master branch called "fix1".
+3. At "fix1" branch, add some commits.
+
